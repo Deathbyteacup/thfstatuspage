@@ -1,7 +1,7 @@
 url: http://www.thehostingfolks.org
-status: up
-code: 200
-responseTime: 587
-lastUpdated: 2024-02-21T09:46:00.548Z
+status: down
+code: 429
+responseTime: 531
+lastUpdated: 2024-02-21T09:51:42.593Z
 startTime: 2023-02-11T01:35:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
