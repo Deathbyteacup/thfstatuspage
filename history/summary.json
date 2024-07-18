@@ -49,19 +49,19 @@
     "url": "https://www.stackstatus.com",
     "icon": "https://cp.thehostingfolks.com/assets/images/icons/dc_location/dc_location-usa.svg",
     "slug": "us-datacentre",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 567,
-    "timeDay": 761,
-    "timeWeek": 588,
-    "timeMonth": 576,
+    "timeDay": 585,
+    "timeWeek": 566,
+    "timeMonth": 571,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2024-07-18": 0
+      "2024-07-18": 11
     }
   }
 ]
