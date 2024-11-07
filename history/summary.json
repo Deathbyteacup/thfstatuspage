@@ -6,17 +6,16 @@
     "slug": "uk-datacentre",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "98.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "98.91%",
     "uptimeYear": "99.53%",
     "time": 611,
-    "timeDay": 699,
-    "timeWeek": 631,
-    "timeMonth": 655,
+    "timeDay": 735,
+    "timeWeek": 634,
+    "timeMonth": 656,
     "timeYear": 614,
     "dailyMinutesDown": {
-      "2024-11-06": 6,
       "2024-11-03": 34,
       "2024-11-02": 16,
       "2024-11-01": 15,
@@ -90,7 +89,7 @@
       "2024-02-24": 15,
       "2024-02-23": 93,
       "2024-02-22": 143,
-      "2024-02-21": 73
+      "2024-02-21": 106
     }
   },
   {
@@ -104,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 590,
-    "timeDay": 503,
-    "timeWeek": 607,
-    "timeMonth": 614,
-    "timeYear": 581,
+    "time": 591,
+    "timeDay": 769,
+    "timeWeek": 612,
+    "timeMonth": 621,
+    "timeYear": 582,
     "dailyMinutesDown": {}
   }
 ]
