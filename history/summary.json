@@ -4,9 +4,9 @@
     "url": "http://www.thehostingfolks.org",
     "icon": "https://cp.thehostingfolks.com/assets/images/icons/dc_location/dc_location-uk.svg",
     "slug": "uk-datacentre",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "61.17%",
+    "uptimeDay": "61.86%",
     "uptimeWeek": "86.88%",
     "uptimeMonth": "96.03%",
     "uptimeYear": "99.44%",
@@ -67,8 +67,7 @@
       "2025-03-22": 34,
       "2025-03-21": 15,
       "2025-03-19": 34,
-      "2025-03-17": 29,
-      "2025-03-16": 18
+      "2025-03-17": 29
     }
   },
   {
