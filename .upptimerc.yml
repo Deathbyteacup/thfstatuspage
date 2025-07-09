@@ -4,7 +4,7 @@ repo: thfstatuspage # The name of this repository
 
 sites:
   - name: UK Datacentre
-    url: http://www.thehostingfolks.org
+    url: http://www.thehostingfolks.com
     icon: https://cp.thehostingfolks.com/assets/images/icons/dc_location/dc_location-uk.svg
   - name: US Datacentre
     url: https://www.stackstatus.com
