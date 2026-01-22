@@ -4,18 +4,19 @@
     "url": "http://www.thehostingfolks.org",
     "icon": "https://cp.thehostingfolks.com/assets/images/icons/dc_location/dc_location-uk.svg",
     "slug": "uk-datacentre",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "98.22%",
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "98.15%",
     "uptimeYear": "99.43%",
     "time": 645,
-    "timeDay": 588,
+    "timeDay": 592,
     "timeWeek": 602,
-    "timeMonth": 721,
+    "timeMonth": 720,
     "timeYear": 651,
     "dailyMinutesDown": {
+      "2026-01-22": 30,
       "2026-01-20": 76,
       "2026-01-19": 18,
       "2026-01-18": 36,
@@ -93,7 +94,7 @@
       "2025-08-05": 17,
       "2025-08-04": 32,
       "2025-08-03": 108,
-      "2025-07-31": 47
+      "2025-07-31": 19
     }
   },
   {
