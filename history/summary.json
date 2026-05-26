@@ -6,10 +6,10 @@
     "slug": "uk-datacentre",
     "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.40%",
-    "uptimeMonth": "98.29%",
-    "uptimeYear": "99.00%",
+    "uptimeDay": "92.00%",
+    "uptimeWeek": "97.26%",
+    "uptimeMonth": "98.02%",
+    "uptimeYear": "98.97%",
     "time": 646,
     "timeDay": 571,
     "timeWeek": 547,
@@ -75,7 +75,7 @@
       "2026-05-09": 104,
       "2026-05-15": 59,
       "2026-05-22": 161,
-      "2026-05-26": 0
+      "2026-05-26": 115
     }
   },
   {
