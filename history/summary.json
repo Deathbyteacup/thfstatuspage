@@ -6,12 +6,12 @@
     "slug": "uk-datacentre",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "64.23%",
+    "uptimeDay": "71.88%",
     "uptimeWeek": "79.04%",
     "uptimeMonth": "90.19%",
     "uptimeYear": "98.43%",
     "time": 639,
-    "timeDay": 544,
+    "timeDay": 542,
     "timeWeek": 576,
     "timeMonth": 609,
     "timeYear": 638,
@@ -85,9 +85,9 @@
     "url": "https://www.stackstatus.com",
     "icon": "https://cp.thehostingfolks.com/assets/images/icons/dc_location/dc_location-usa.svg",
     "slug": "us-datacentre",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -98,7 +98,8 @@
     "timeYear": 625,
     "dailyMinutesDown": {
       "2025-08-13": 15,
-      "2025-08-16": 37
+      "2025-08-16": 37,
+      "2026-06-23": 0
     }
   }
 ]
